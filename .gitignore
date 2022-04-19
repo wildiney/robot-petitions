@@ -3,3 +3,4 @@ drivers
 venv
 .env
 html.html
+.vscode
