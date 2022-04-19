@@ -1,6 +1,6 @@
 import sys
 
-from Petitions import Purchases
+from petitions import Purchases
 
 pc = Purchases()
 pc.init()
